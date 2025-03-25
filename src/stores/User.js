@@ -3,8 +3,8 @@ import { defineStore } from 'pinia'
 
 export const useUserStore = defineStore('user', {
   state: () => ({
-    name: '',
     isAuthenticated: false,
+    name: '',
   }),
   actions: {
     login(name) {
@@ -16,5 +16,5 @@ export const useUserStore = defineStore('user', {
       this.name = ''
     },
   },
-  persist: true, // si tu utilises pinia-plugin-persistedstate
+  persist: true, 
 })
