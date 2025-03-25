@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone X",
+      "description": "Un smartphone moderne avec écran OLED.",
+      "price": 799,
+      "image": "./azure.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Casque Audio Pro",
+      "description": "Un casque audio à réduction de bruit.",
+      "price": 199,
+      "image": "./azure.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Montre Connectée",
+      "description": "Un accessoire connecté pour suivre votre activité.",
+      "price": 149,
+      "image": "./azure.jpeg"    },
+    {
+      "id": 4,
+      "name": "PC Portable Gamer",
+      "description": "Un ordinateur puissant pour le gaming.",
+      "price": 1299,
+      "image": "./azure.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Tablette XXL",
+      "description": "Une tablette grand format pour la créativité.",
+      "price": 499,
+      "image": "./azure.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Appareil Photo DSLR",
+      "description": "Idéal pour capturer des moments en haute résolution.",
+      "price": 899,
+      "image": "./azure.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Clavier Mécanique",
+      "description": "Un clavier robuste et réactif pour les professionnels.",
+      "price": 109,
+      "image": "./azure.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Enceinte Bluetooth",
+      "description": "Profitez de votre musique partout, sans fil.",
+      "price": 79,
+      "image": "./azure.jpeg"
+    }
+  ]
+  
