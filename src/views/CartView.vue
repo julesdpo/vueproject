@@ -71,7 +71,6 @@
       })
   
       function increase(item) {
-        // Ajoute le produit, ce qui incrémente la quantité s'il existe déjà
         cart.addToCart(item)
       }
   

@@ -43,8 +43,7 @@
   
       function add(product) {
         cartStore.addToCart(product)
-        // Optionnel : on pourrait sauvegarder tout de suite, si tu veux
-        // cartStore.saveCartForUser(...) => besoin du userStore pour le nom
+        
       }
   
       return {
